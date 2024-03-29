@@ -4,7 +4,7 @@ from random_player import RandomPlayer
 player_1 = RandomPlayer()
 player_2 = RandomPlayer()
 
-games_to_play = 10_000_000
+games_to_play = 1_000_000
 
 x_wins = 0
 o_wins = 0
